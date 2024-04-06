@@ -1,0 +1,13 @@
+//^^
+common: 
+flowable-ui\flowable-ui-common\src\main\java\org\flowable\ui\common\rest\idm\remote\RemoteAccountResource.java
+flowable-ui\flowable-ui-common\src\main\java\org\flowable\ui\common\security\FlowableUiCustomFormLoginConfigurer.java
+flowable-ui\flowable-ui-common\src\main\java\org\flowable\ui\common\security\FlowableUiSecurityAutoConfiguration.java
+flowable-ui\flowable-ui-common\src\main\java\org\flowable\ui\common\security\UacAuthenticationProvider.java
+
+flowable-ui-idm-conf:
+flowable-ui\flowable-ui-idm-conf\src\main\java\org\flowable\ui\idm\security\UacUserDetailsService.java
+flowable-ui\flowable-ui-idm-conf\src\main\java\org\flowable\ui\idm\security\UserDetailsService.java
+flowable-ui\flowable-ui-idm-conf\src\main\java\org\flowable\ui\idm\web\CustomUsernamePasswordAuthenticationFilter.java
+flowable-ui\flowable-ui-idm-rest\src\main\java\org\flowable\ui\idm\rest\app\AccountResource.java
+flowable-ui\flowable-ui-idm-conf\src\main\java\org\flowable\ui\idm\conf\IdmSecurityConfiguration.java
